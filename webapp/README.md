@@ -1,2 +1,1 @@
-# ner
-Named Entity Recognition
+#Simple Semanitc Search
